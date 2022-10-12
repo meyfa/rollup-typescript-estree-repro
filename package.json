@@ -1,0 +1,17 @@
+{
+  "name": "rollup-typescript-estree-repro",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "author": "Fabian Meyer",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "9.0.1",
+    "rollup": "3.1.0",
+    "typescript": "4.8.4"
+  }
+}
