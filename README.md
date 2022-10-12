@@ -21,4 +21,6 @@ Basically no code is necessary, this already fails typechecks when installed.
 
 ## CI
 
-You can also see the error in the failing GitHub Actions workflow.
+You can also see the error in the failing GitHub Actions workflow:
+
+[![CI](https://github.com/meyfa/rollup-typescript-estree-repro/actions/workflows/main.yml/badge.svg)](https://github.com/meyfa/rollup-typescript-estree-repro/actions/workflows/main.yml)
