@@ -11,6 +11,8 @@ node_modules/@rollup/pluginutils/types/index.d.ts:2:26 - error TS2307: Cannot fi
 Found 1 error in node_modules/@rollup/pluginutils/types/index.d.ts:2
 ```
 
+Issue reference: https://github.com/rollup/plugins/issues/1315
+
 ## Instructions
 
 1. `npm install`
